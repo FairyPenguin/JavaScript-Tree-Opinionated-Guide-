@@ -12,6 +12,7 @@ This guide i created while my journey for learning JavaScript, and as there many
 
 #I will updated the guide regulary 
 
+---
 
 1- Comments:
 
@@ -21,9 +22,12 @@ This guide i created while my journey for learning JavaScript, and as there many
        line
            comment */
            
+           ---
 
 2- Varibales initial value
 When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined. [Source:https://www.freecodecamp.org/]
+
+---
 
 3- camelCase && caseSenstive
 
@@ -31,8 +35,14 @@ When JavaScript variables are declared, they have an initial value of undefined.
 
  myVar !== MYVAR
 
+---
+
 4- Constant
 
 const = let + read-only(cannot be reassigned)
 
 const has all the awesome features that let has, with the added bonus that variables declared using const are read-only. They are a constant value, which means that once a variable is assigned with const, it cannot be reassigned:
+
+---
+
+5-
