@@ -1,5 +1,7 @@
 # JavaScript Tree [Opinionated-Guide]
 
+![]()
+
 This guide i created while my journey for learning JavaScript, and as there many guides and cheatsheets so i decided only to focus on two things:
 1- The parts that i feel it need more depth and more learning to fully understand, some will seem to you a very easy ones but for me i see a diffrent POV.
 2- The Weired Parts [NaN - Undefined - truthy - Falsy - etc ........]
