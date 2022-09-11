@@ -49,3 +49,29 @@ const has all the awesome features that let has, with the added bonus that varia
 
 ![](/assets/let-reassign.png)
 
+---
+
+6- Increment:
+
+You can easily increment or add one to a variable with the ++ operator.
+
+i++;  is the equivalent of  i = i + 1;
+
+Note: The entire line becomes i++;, eliminating the need for the equal sign.
+
+---
+
+7-
+
+
+---
+
+8-
+
+---
+
+9-
+
+---
+
+10-
