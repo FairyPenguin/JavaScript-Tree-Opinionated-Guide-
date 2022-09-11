@@ -45,4 +45,8 @@ const has all the awesome features that let has, with the added bonus that varia
 
 ---
 
-5-
+5- let value can be changed but not re declared like:
+
+let a = 50;
+    a = 100;
+cnsole.log
