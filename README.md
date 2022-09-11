@@ -1,4 +1,4 @@
-# JavaScript Tree [Opinionated-Guide]
+# JavaScript Tree 🌳 [Opinionated-Guide]
 
 ![](/assets/pexels-luci-8793629-modified.jpg)
 
