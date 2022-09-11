@@ -22,7 +22,7 @@ This guide i created while my journey for learning JavaScript, and as there many
        line
            comment */
            
-           ---
+---
 
 2- Varibales initial value
 When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined. [Source:https://www.freecodecamp.org/]
