@@ -1,6 +1,7 @@
 # JavaScript Tree [Opinionated-Guide]
 
 ![](/assets/pexels-luci-8793629-modified.jpg)
+
 img source: [https://www.pexels.com/photo/close-up-photo-of-a-green-iguana-8793629/]
 
 This guide i created while my journey for learning JavaScript, and as there many guides and cheatsheets so i decided only to focus on two things:
