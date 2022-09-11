@@ -61,8 +61,9 @@ Note: The entire line becomes i++;, eliminating the need for the equal sign.
 
 ---
 
-7-
+7- Float
 
+Decimal numbers are sometimes referred to as floating point numbers or floats.
 
 ---
 
