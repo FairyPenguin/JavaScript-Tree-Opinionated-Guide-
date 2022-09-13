@@ -80,8 +80,27 @@ Math.floor(5 / 2) = 2 (Quotient)
 
 ---
 
-9-
+9- String Immutability
+
+
+In JavaScript, String values are immutable, which means that they cannot be altered once created.
+
+Use Bracket Notation to Find the Last Character in a String
+
+In order to get the last letter of a string, you can subtract one from the string's length.
+Unlike strings, the entries of arrays are mutable and can be changed freely, even if the array was declared with const.
 
 ---
 
-10-
+10- Nest one Array within Another Array
+
+This is also called a multi-dimensional array.
+
+
+---
+
+11- Modify Array Data With Indexes
+
+Unlike strings, the entries of arrays are mutable and can be changed freely, even if the array was declared with const.
+
+---
