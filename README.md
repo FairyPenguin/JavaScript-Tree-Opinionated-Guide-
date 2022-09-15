@@ -125,3 +125,8 @@ Variables which are declared within a function, as well as the function paramete
 
 ---
 
+15- Global && Local togather
+
+It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.
+
+---
