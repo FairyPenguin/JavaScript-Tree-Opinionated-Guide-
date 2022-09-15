@@ -130,3 +130,30 @@ Variables which are declared within a function, as well as the function paramete
 It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.
 
 ---
+
+16- Type Coercion:
+
+In order for JavaScript to compare two different data types (for example, numbers and strings), it must convert one type to another. This is known as Type Coercion. Once it does.
+
+---
+
+17-Strict equality (===):
+
+Strict equality (===) is the counterpart to the equality operator (==). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.
+
+---
+
+18
+
+
+---
+
+19
+
+
+---
+
+20
+
+
+---
