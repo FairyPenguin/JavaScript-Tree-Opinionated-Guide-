@@ -119,8 +119,9 @@ Variables which are declared without the let or const keywords are automatically
 
 ---
 
-14-
+14- Localscope:
 
+Variables which are declared within a function, as well as the function parameters, have local scope. That means they are only visible within that function.
 
 ---
 
